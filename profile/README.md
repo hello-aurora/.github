@@ -7,4 +7,4 @@ We are two passionates building the best mobile application for Northern Lights 
 
 ---
 
-You can support us on [Patreon](https://www.patreon.com/helloaurora) it helps us covering the infrascture costs and allow us continuing developing new features in the app. You can download the hello aurora app on [iOS](https://apps.apple.com/us/app/hello-aurora-forecast-app/id1457810302?itsct=apps_box_link&itscg=30200) and [Android](https://play.google.com/store/apps/details?id=com.helloaurora).
+You can download the hello aurora app on [iOS](https://apps.apple.com/us/app/hello-aurora-forecast-app/id1457810302?itsct=apps_box_link&itscg=30200) and [Android](https://play.google.com/store/apps/details?id=com.helloaurora).
